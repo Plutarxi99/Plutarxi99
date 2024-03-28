@@ -1,1 +1,1 @@
-<img src="header.png" alt="приветствие">
+<img src="head_banner.png" alt="приветствие">
