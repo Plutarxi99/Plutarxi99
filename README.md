@@ -1,6 +1,7 @@
 <img src="header.png" alt="приветствие">
 
 
+
 [![codewars](https://www.codewars.com/users/Plutarx/badges/large)](https://www.codewars.com/users/Plutarx)
 
 ### Connect with me:
@@ -18,6 +19,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
 <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic" width="40" height="40"/> </a> 
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sqlalchemy" alt="sqlalchemy" width="40" height="40"/> </a> 
-<a href="https://pytest-docs-ru.readthedocs.io/ru/latest/fixture.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pytest" alt="pytest" width="40" height="40"/> </a> 
-<a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="40" height="40"/> </a> 
+<a href="https://pytest-docs-ru.readthedocs.io/en/latest/fixture.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pytest" alt="pytest" width="40" height="40"/> </a> 
+<a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40"/> </a>
 </p>
