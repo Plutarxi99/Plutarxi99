@@ -4,24 +4,26 @@
   <a align="right" href="https://stepik.org/users/658175443/profile" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/stepik/certificate/EBAE69" alt="stepic"></a>
   <a align="right" href="https://www.codewars.com/users/Plutarx" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Plutarx/badges/small" alt="codewars"></a>
 </p>
+<h2 align="center">🕵🏻 Bio:</h2>
+  <h3 align="center">
+    🎓I’m currently learning Python, WEB, Backend<br><br>
+☀️Day in and day out, reading the documentation🌑<br><br>
+Programming as a way of life🆒<br><br>
 
-<h2 align="center">❓ 🕵🏻Bio: 🕵🏻 ❓</h2>
-  - 🟢 I’m currently learning python, web, backend
-  - 🟢
-
-<h2 align="center">🟣 My stack: 📚</h2>
-<h3 align="center">🔤 Language: 🔤</h3>
+  </h3>
+<h2 align="center">📚 My stack: 📚</h2>
+<h3 align="center">Language:</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">🎞️ Framework: 🎞️</h3>
+<h3 align="center">Framework:</b></h3>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">🛠 Tools: 🛠</h3>
+<h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Ubuntu" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/celery" alt="celery" width="40" height="40"/> </a> 
