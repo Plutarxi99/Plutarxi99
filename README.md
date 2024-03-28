@@ -1,10 +1,11 @@
 <img src="header.png" alt="приветствие">
 
-🏅
+[![qwe](https://badgen.net/badge/stepik/certificate/gray)](https://stepik.org/users/658175443/profile)
+
 [![codewars](https://www.codewars.com/users/Plutarx/badges/small)](https://www.codewars.com/users/Plutarx)
-🏅
-## 🟣 Bio: 🕵🏻
-  - I am Python Developer.
+## 🟣 Bio: 🕵🏻 ❓
+  - 🟢 I’m currently learning python, web, backend
+  - 🟢
 
 
 ## 🟣 My stack: 📚
