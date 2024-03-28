@@ -1,27 +1,28 @@
 <img src="header.png" alt="приветствие">
 
-
-[![codewars](https://www.codewars.com/users/Plutarx/badges/large)](https://www.codewars.com/users/Plutarx)
-## 🟣 Bio:
+🏅
+[![codewars](https://www.codewars.com/users/Plutarx/badges/small)](https://www.codewars.com/users/Plutarx)
+🏅
+## 🟣 Bio: 🕵🏻
   - I am Python Developer.
 
 
-## 🟣 My stack: 📚📚📚
+## 🟣 My stack: 📚
 
-### 🟠 Language:
+### 🟠 Language: 🔤
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a> 
 </p>
 
 
-### 🟠 Framework:
+### 🟠 Framework: 🎞️
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
 </p>
 
 
-### 🟠 Tools:
+### 🟠 Tools: 🛠
 <p align="left">
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Ubuntu" alt="Ubuntu" width="40" height="40"/> </a>
 <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/celery" alt="celery" width="40" height="40"/> </a> 
@@ -34,7 +35,7 @@
 
 
 
-### Connect with me:
+## 🟣 Connect with me: 🌍
 <p align="left">
 <a href="https://t.me/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="plutarxi99_tg" height="40" width="40" /></a>
 <a href="https://vk.com/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/vk" alt="plutarxi99_vk" height="40" width="40" /></a>
