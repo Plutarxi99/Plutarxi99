@@ -1,4 +1,4 @@
-<img src="head_banner.png" alt="приветствие">
+<img src="header.png" alt="приветствие">
 
 
 [![codewars](https://www.codewars.com/users/Plutarx/badges/large)](https://www.codewars.com/users/Plutarx)
