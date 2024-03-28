@@ -41,7 +41,7 @@ Programming as a way of life🆒<br><br>
   <a href="https://vk.com/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/vk" alt="plutarxi99_vk" height="40" width="40" /></a>
 </p>
 <p align="center">
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/Sleep/is the/986AEB" alt="stepic"></a>
+  <a align="right" href="https://vk.com/photos172960268?z=photo163171397_457247189%2Fmail163171397-47212" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/Sleep/is the/986AEB" alt="stepic"></a>
   <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/little/mystery/6AEB82" alt="codewars"></a>
   <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/of death/, sleep/EBAE69" alt="codewars"></a>
   <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/is/the/986AEB" alt="stepic"></a>
