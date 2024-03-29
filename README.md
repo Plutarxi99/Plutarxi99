@@ -39,6 +39,7 @@ Programming as a way of life🆒<br><br>
 <p align="center">
   <a href="https://t.me/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="plutarxi99_tg" height="40" width="40" /></a>
   <a href="https://vk.com/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/vk" alt="plutarxi99_vk" height="40" width="40" /></a>
+  <a href="mailto:egor.shievanov@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></a>
 </p>
 <p align="center">
   <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/Sleep/is the/986AEB" alt="stepic"></a>
