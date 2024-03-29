@@ -2,7 +2,7 @@
 
 <p align="center">
   <a align="right" href="https://stepik.org/users/658175443/profile" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/stepik/certificate/EBAE69" alt="stepic"></a>
-  <a align="right" href="https://www.codewars.com/users/Plutarx" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Plutarx/badges/small" alt="codewars"></a>
+  <a align="right" href="https://www.codewars.com/users/Plutarx" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Plutarx/badges/micro" alt="codewars"></a>
 </p>
 <h2 align="center">🕵🏻 Bio:</h2>
   <h3 align="center">
