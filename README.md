@@ -14,7 +14,8 @@ Programming as a way of life🆒<br><br>
 <h2 align="center">📚 My stack: 📚</h2>
 <h3 align="center">Language:</h3>
 <p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a>
+<a href="https://c-language-documentation.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/C" alt="C" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Framework:</b></h3>
