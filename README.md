@@ -16,12 +16,14 @@ Programming as a way of life🆒<br><br>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a>
 <a href="https://c-language-documentation.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/C" alt="C" width="40" height="40"/> </a> 
+<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/PHP" alt="PHP" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Framework:</b></h3>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
+  <a href="https://www.yiiframework.com/doc/guide/2.0/ru" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/yii" alt="yii2" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="center">Tools:</h3>
