@@ -21,6 +21,7 @@ Programming as a way of life🆒<br><br>
 
 <h3 align="center">Framework:</b></h3>
 <p align="center">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/laravel" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
   <a href="https://www.yiiframework.com/doc/guide/2.0/ru" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/yii" alt="yii2" width="40" height="40"/> </a> 
