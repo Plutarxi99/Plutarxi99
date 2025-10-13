@@ -3,11 +3,6 @@
   <img src="header.png" alt="Header" width="100%">
 </p>
 
-<h3 align="center">PHP & Backend Developer</h3>
-<p align="center">
-  Laravel • Yii2 • FastAPI • Django • Redis • Celery
-</p>
-
 ---
 
 ### 🧭 About
