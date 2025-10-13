@@ -1,55 +1,92 @@
-<img src="header.png" alt="приветствие">
-
+<!-- Header -->
 <p align="center">
-  <a align="right" href="https://stepik.org/users/658175443/profile" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/stepik/certificate/EBAE69" alt="stepic"></a>
-  <a align="right" href="https://www.codewars.com/users/Plutarx" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Plutarx/badges/micro" alt="codewars"></a>
-</p>
-<h2 align="center">🕵🏻 Bio:</h2>
-  <h3 align="center">
-    🎓I’m currently learning Python, WEB, Backend<br><br>
-☀️Day in and day out, reading the documentation🌑<br><br>
-Programming as a way of life🆒<br><br>
-
-  </h3>
-<h2 align="center">📚 My stack: 📚</h2>
-<h3 align="center">Language:</h3>
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Python" alt="Python" width="40" height="40"/> </a>
-<a href="https://c-language-documentation.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/C" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/PHP" alt="PHP" width="40" height="40"/> </a> 
+  <img src="header.png" alt="Header banner" width="100%">
 </p>
 
-<h3 align="center">Framework:</b></h3>
+<h1 align="center">Egor Shievanov</h1>
 <p align="center">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/laravel" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/django" alt="django" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a> 
-  <a href="https://www.yiiframework.com/doc/guide/2.0/ru" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/yii" alt="yii2" width="40" height="40"/> </a> 
+  <b>Python & PHP Backend Developer</b>
 </p>
 
-<h3 align="center">Tools:</h3>
-<p align="center">
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/Ubuntu" alt="Ubuntu" width="40" height="40"/> </a>
-  <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/celery" alt="celery" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/redis" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://docs.pydantic.dev/latest/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic" width="40" height="40"/> </a> 
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/sqlalchemy" alt="sqlalchemy" width="40" height="40"/> </a> 
-  <a href="https://pytest-docs-ru.readthedocs.io/ru/latest/fixture.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pytest" alt="pytest" width="40" height="40"/> </a> 
-  <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nginx" alt="nginx" width="40" height="40"/> </a> 
+---
+
+### 🧭 About
+
+- Разрабатываю **серверную логику** и **интеграционные API** для внутренних и внешних сервисов.  
+- Стек: **FastAPI**, **Laravel**, **Yii2**, **Celery**, **Redis**, **PostgreSQL**, **Docker Compose**.  
+- Основной фокус — **архитектура, тестирование, стабильность**.  
+- Предпочитаю ясный код, точную типизацию и осмысленные абстракции.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="28" alt="Python" />
+  <img src="https://cdn.simpleicons.org/php/ffffff" height="28" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/c/ffffff" height="28" alt="C" />
 </p>
 
-
-<h2 align="center">🌍 Connect with me: 🌍</h2>
-<p align="center">
-  <a href="https://t.me/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram" alt="plutarxi99_tg" height="40" width="40" /></a>
-  <a href="https://vk.com/plutarxi99" target="blank"><img align="center" src="https://cdn.simpleicons.org/vk" alt="plutarxi99_vk" height="40" width="40" /></a>
-  <a href="mailto:egor.shievanov@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="40" width="40" /></a>
+**Frameworks**
+<p>
+  <img src="https://cdn.simpleicons.org/fastapi/ffffff" height="28" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/laravel/ffffff" height="28" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/yii/ffffff" height="28" alt="Yii2" />
 </p>
+
+**Infrastructure & Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="28" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/redis/ffffff" height="28" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="28" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mariadb/ffffff" height="28" alt="MariaDB" />
+  <img src="https://cdn.simpleicons.org/celery/ffffff" height="28" alt="Celery" />
+  <img src="https://cdn.simpleicons.org/nginx/ffffff" height="28" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/pytest/ffffff" height="28" alt="Pytest" />
+</p>
+
+---
+
+### 📦 Projects
+
+#### PHP
+- [helpdesk-migration](https://github.com/Plutarxi99/helpdesk-migration) — миграция тикетов между Helpdesk системами.  
+- [api_without_framework](https://github.com/Plutarxi99/api_without_framework) — минималистичный API без фреймворков.
+
+#### Python
+- [walmar_numizmat_parser](https://github.com/Plutarxi99/walmar_numizmat_parser) — парсер нумизматических данных (коммерческий).  
+- [storage_user](https://github.com/Plutarxi99/storage_user) — сервис хранения пользовательских данных.  
+- [mailing_list](https://github.com/Plutarxi99/mailing_list) — система рассылок с очередями и задачами.  
+- [habit_tracker](https://github.com/Plutarxi99/habit_tracker) — трекер привычек.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/Sleep/is the/986AEB" alt="stepic"></a>
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/little/mystery/6AEB82" alt="codewars"></a>
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/of death/, sleep/EBAE69" alt="codewars"></a>
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/is/the/986AEB" alt="stepic"></a>
-  <a align="right" href="#" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/first/initiation/6AEB82" alt="codewars"></a>
-  <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/into/death/EBAE69" alt="codewars"></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Plutarxi99&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Plutarxi99&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plutarxi99&layout=compact&theme=graywhite&hide_border=true" height="150" alt="Languages" />
+</p>
+
+---
+
+### 🌍 Contacts
+
+<p align="center">
+  <a href="https://t.me/plutarxi99" target="_blank"><img src="https://cdn.simpleicons.org/telegram/ffffff" alt="Telegram" width="28" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:egor.shievanov@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail" width="28" /></a>
+  &nbsp;&nbsp;
+  <a href="https://vk.com/plutarxi99" target="_blank"><img src="https://cdn.simpleicons.org/vk/ffffff" alt="VK" width="28" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Sleep is the first initiation into death — and code, the art of returning from it."</i>
 </p>
