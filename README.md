@@ -23,7 +23,7 @@
 `FastAPI` `Django` `Laravel` `Yii2`
 
 **Infrastructure & Tools:**  
-`Redis` `Celery` `SQLAlchemy` `Pytest` `Nginx` `Ubuntu`
+`Redis` `Celery` `SQLAlchemy` `Pytest` `Nginx` `Ubuntu` `Websocket` `Docker-compose` `Swagger` `Redoc`
 
 ---
 
